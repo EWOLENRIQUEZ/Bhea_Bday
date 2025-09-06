@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `I've cherished all the memories we had, and the sound of my senior high school echoes your name.\n Through the hallways of PUP, your laugh—your shadows, and your footsteps lingers.\n I vividly remember how these pavement witnessed all of your hardships, perseverance and courage.\n If these bricks could talk, they will praise you for the woman you've become\nI know we didn't get to catch up often, but let my silent prayer wish you well. And through faith, I thank god for crossing our paths.`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
